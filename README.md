@@ -1,2 +1,2 @@
-# Vibora
-game home
+# Numpade
+Pad numerico en teclado normal
